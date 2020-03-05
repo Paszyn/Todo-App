@@ -1,0 +1,9 @@
+It's my first Angular app working on node.js
+For now it allows to add new tasks to the task list 
+(only locally) and delete them when finished.
++ Added proper input verification
+
+/------------- RUN INSTRUCTIONS -------------------/
+Open main repository in command line
+Run 'npm start' to build server
+In your browser enter 'localhost:4200' in URL bar
